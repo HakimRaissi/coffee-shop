@@ -10,6 +10,8 @@
 
 A beautiful static website i made thanks to [Bedimcode](https://github.com/bedimcode), if you want to improve in front-end developement i highly recommend his youtube channel.
 
+[Demo](https://hakimraissi.github.io/coffee-shop/)
+
 ## Contacts
 
 Hakim Raissi - [@Hakim_Raissi_10](https://twitter.com/Hakim_Raissi_10) - raissihakim1808@outlook.fr
